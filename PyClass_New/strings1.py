@@ -1,0 +1,11 @@
+phrase = "Giraffe Academy"
+#print("Giraffe\"Academy")
+#print("Giraffe\nAcademy")
+#print("Giraffe\Academy")
+#print(phrase + " rocks")
+#print(phrase.upper())
+#print(phrase.lower())
+#print(len(phrase))
+#print(phrase[3])
+#print(phrase.index("A"))
+#print(phrase.replace("Giraffe", "BigDongDaddy"))
