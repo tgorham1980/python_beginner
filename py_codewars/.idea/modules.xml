@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PyClass_New.iml" filepath="$PROJECT_DIR$/.idea/PyClass_New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py_codewars.iml" filepath="$PROJECT_DIR$/.idea/py_codewars.iml" />
     </modules>
   </component>
 </project>
